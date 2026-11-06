@@ -1,0 +1,1 @@
+{"name":"gridlok-notion-discord-bot","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test","start":"node src/index.js","register":"node src/register.js"},"engines":{"node":">=20"},"dependencies":{"discord.js":"^14.28.1","dotenv":"^18.0.9"}}
